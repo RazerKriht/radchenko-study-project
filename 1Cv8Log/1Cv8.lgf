@@ -16,4 +16,10 @@
 {3,"1CV8C",2},
 {4,"_$Transaction$_.Begin",6},
 {4,"_$Transaction$_.Commit",7},
-{4,"_$Session$_.Finish",8}
+{4,"_$Session$_.Finish",8},
+{4,"_$InfoBase$_.PredefinedDataUpdate",9},
+{5,59605da5-59d6-40f7-a133-08dc1ec3160a,"",1},
+{4,"_$Data$_.New",10},
+{5,59605da5-59d6-40f7-a133-08dc1ec3160a,"Справочник.Клиенты",1},
+{4,"_$Data$_.Update",11},
+{3,"BackgroundJob",3}
