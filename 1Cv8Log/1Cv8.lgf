@@ -23,4 +23,10 @@
 {5,59605da5-59d6-40f7-a133-08dc1ec3160a,"Справочник.Клиенты",1},
 {4,"_$Data$_.Update",11},
 {3,"BackgroundJob",3},
-{5,f0b1bfac-0a81-450f-8c8b-e3fce1ac0ed9,"",2}
+{5,f0b1bfac-0a81-450f-8c8b-e3fce1ac0ed9,"",2},
+{5,f0b1bfac-0a81-450f-8c8b-e3fce1ac0ed9,"Справочник.Сотрудники",2},
+{5,dacff030-fbe7-446c-aed4-e221c035064e,"",3},
+{5,dacff030-fbe7-446c-aed4-e221c035064e,"Справочник.Номенклатура",3},
+{5,671d6b3e-5d20-457c-bfc2-a1cd02b24ccd,"",4},
+{4,"_$Data$_.PredefinedDataInitialization",12},
+{5,671d6b3e-5d20-457c-bfc2-a1cd02b24ccd,"Справочник.Склады",4}
